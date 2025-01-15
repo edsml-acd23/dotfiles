@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = andrei.danila23@imperial.ac.uk
+	name = Andrei Danila
